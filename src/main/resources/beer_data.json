@@ -1,0 +1,3030 @@
+{
+  "breweries": [
+    {
+      "name": "21st Amendment",
+      "info": "San Francisco, CA",
+      "beers": [
+        {
+          "name": "Brew Free or Die IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1066",
+          "ABV": "7.0%",
+          "IBU": "70"
+        },
+        {
+          "name": "Back in Black",
+          "style": "Black India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "6.8%",
+          "IBU": "65"
+        },
+        {
+          "name": "Bitter American",
+          "style": "Winter Seasonal ‚Äì American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "ABV": "4.4%",
+          "IBU": "42"
+        }
+      ]
+    },
+    {
+      "name": "ACE Ciders",
+      "info": "Sebastopol, Sonoma, CA",
+      "beers": [
+        {
+          "name": "ACE Apple Cider",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "5.0%"
+        },
+        {
+          "name": "ACE Joker Cider",
+          "style": "Strong Dry Cider",
+          "favorite": true,
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.9%"
+        }
+      ]
+    },
+    {
+      "name": "Alaskan Brewing Co.",
+      "info": "Juneau, AK",
+      "beers": [
+        {
+          "name": "Alaskan Amber Ale",
+          "style": "Alt",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1054",
+          "ABV": "5.3%",
+          "IBU": "18"
+        },
+        {
+          "name": "Alaskan Pale Ale",
+          "style": "Golden Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1047",
+          "ABV": "5.2%",
+          "IBU": "28"
+        },
+        {
+          "name": "Alaskan White",
+          "style": "Belgian White",
+          "category": [
+            "Belgian",
+            "White"
+          ],
+          "OG": "1048",
+          "ABV": "5.3%",
+          "IBU": "15"
+        },
+        {
+          "name": "Alaskan IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1057",
+          "ABV": "6.2%",
+          "IBU": "55"
+        },
+        {
+          "name": "Alaskan Stout",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1065",
+          "ABV": "5.7%",
+          "IBU": "28"
+        },
+        {
+          "name": "Alaskan Smoked Porter 2011",
+          "style": "Specialty-smoked",
+          "category": [
+            "Smoked",
+            "Porter"
+          ],
+          "OG": "1068",
+          "ABV": "6.5%",
+          "IBU": "45"
+        },
+        {
+          "name": "Alaskan Barley Wine 2011",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1103",
+          "ABV": "10.7%",
+          "IBU": "60"
+        },
+        {
+          "name": "Alaskan Black IPA",
+          "style": "Black India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1065",
+          "ABV": "6.4%",
+          "IBU": "65"
+        }
+      ]
+    },
+    {
+      "name": "Anchor Brewing Co.",
+      "info": "San Francisco, CA",
+      "beers": [
+        {
+          "name": "Anchor Steam",
+          "style": "California Common",
+          "category": [
+            "Specialty Ale"
+          ],
+          "OG": "1048",
+          "ABV": "4.9%",
+          "IBU": "33"
+        },
+        {
+          "name": "Anchor Liberty",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "6.0%"
+        },
+        {
+          "name": "Anchor Porter",
+          "style": "Porter",
+          "category": [
+            "Porter"
+          ],
+          "ABV": "5.6%"
+        },
+        {
+          "name": "Anchor Breckles Brown",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "ABV": "6.0%"
+        },
+        {
+          "name": "Old Foghorn Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1100",
+          "ABV": "8.8%",
+          "IBU": "65"
+        }
+      ]
+    },
+    {
+      "name": "Anchorage Brewing Co.",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "The Tide and its Takers",
+          "style": "Belgian Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1072",
+          "ABV": "10.5%",
+          "IBU": "30"
+        },
+        {
+          "name": "Love Buzz",
+          "style": "Belgian Saison",
+          "category": [
+            "Belgian",
+            "Saison"
+          ],
+          "OG": "1060",
+          "ABV": "8.0%",
+          "IBU": "40"
+        },
+        {
+          "name": "Galaxy",
+          "style": "Belgian White IPA",
+          "category": [
+            "Belgian",
+            "White",
+            "IPA"
+          ],
+          "OG": "1054",
+          "ABV": "7.0%",
+          "IBU": "50"
+        },
+        {
+          "name": "Anchorage IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1060",
+          "ABV": "6.5%",
+          "IBU": "70"
+        },
+        {
+          "name": "The Experiment",
+          "style": "Belgian Sour White",
+          "category": [
+            "Belgian",
+            "Sour",
+            "White"
+          ],
+          "OG": "1050",
+          "ABV": "7.0%",
+          "IBU": "20"
+        }
+      ]
+    },
+    {
+      "name": "Avery Brewing Co.",
+      "info": "Boulder, CO",
+      "beers": [
+        {
+          "name": "Avery IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1058",
+          "ABV": "6.5%",
+          "IBU": "69"
+        },
+        {
+          "name": "White Rascal",
+          "style": "Belgian White",
+          "category": [
+            "Belgian",
+            "White"
+          ],
+          "OG": "1050",
+          "ABV": "5.6%",
+          "IBU": "10"
+        },
+        {
+          "name": "Joe's Pilsner",
+          "style": "Pilsner",
+          "category": [
+            "Pilsner"
+          ],
+          "OG": "1048",
+          "ABV": "4.7%",
+          "IBU": "42"
+        }
+      ]
+    },
+    {
+      "name": "Ayinger",
+      "info": "Aying, Bavaria, Germany",
+      "beers": [
+        {
+          "name": "Ayinger Brau Weisse",
+          "style": "Wheat",
+          "category": [
+            "Wheat"
+          ],
+          "OG": "1047",
+          "ABV": "5.1%",
+          "IBU": "13"
+        },
+        {
+          "name": "Ayinger Celebrator Doppelbock",
+          "style": "Doppelbock",
+          "category": [
+            "Bock"
+          ],
+          "OG": "1074",
+          "ABV": "6.7%",
+          "IBU": "24"
+        }
+      ]
+    },
+    {
+      "name": "Baranof Island Brewing Company",
+      "info": "Sitka, AK",
+      "beers": [
+        {
+          "name": "Redoubt Red Ale",
+          "style": "American Amber",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1066",
+          "ABV": "6.0%",
+          "IBU": "30"
+        },
+        {
+          "name": "Baranof Brown Ale",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1064",
+          "ABV": "6.0%",
+          "IBU": "20"
+        },
+        {
+          "name": "Silver Bay IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1064",
+          "ABV": "6.25%",
+          "IBU": "50"
+        },
+        {
+          "name": "Sitka Spruce Tip",
+          "style": "Specialty Ale",
+          "category": [
+            "Specialty Ale"
+          ],
+          "OG": "1065",
+          "ABV": "6.5%",
+          "IBU": "30"
+        },
+        {
+          "name": "Medvejie Stout",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1076",
+          "ABV": "7.25%",
+          "IBU": "70"
+        }
+      ]
+    },
+    {
+      "name": "Big Sky Brewing Co.",
+      "info": "Missoula, MT",
+      "beers": [
+        {
+          "name": "Old Blue Hair Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "10.0%",
+          "IBU": "75"
+        },
+        {
+          "name": "Moose Drool",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "ABV": "5.3%",
+          "IBU": "26"
+        },
+        {
+          "name": "Big Sky IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "6.2%",
+          "IBU": "65"
+        },
+        {
+          "name": "Bobo's Robust Porter",
+          "style": "Porter",
+          "category": [
+            "Porter"
+          ],
+          "ABV": "6.2%",
+          "IBU": "32"
+        }
+      ]
+    },
+    {
+      "name": "Black Raven Brewing Co.",
+      "info": "Redmond, WA",
+      "beers": [
+        {
+          "name": "Wisdom Seeker Double IPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1080",
+          "ABV": "9.1%",
+          "IBU": "90"
+        },
+        {
+          "name": "Old Birdbrain 2010",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1098",
+          "ABV": "11.0%",
+          "IBU": "80"
+        }
+      ]
+    },
+    {
+      "name": "Blue Moon Brewing Co.",
+      "info": "Denver, CO",
+      "beers": [
+        {
+          "name": "Blue Moon Belgian White",
+          "style": "Belgian White",
+          "category": [
+            "Belgian",
+            "White"
+          ],
+          "ABV": "5.4%",
+          "IBU": "9"
+        },
+        {
+          "name": "Blue Moon Vintage Blonde",
+          "style": "Strong Golden Ale",
+          "category": [
+            "Golden Ale",
+            "Strong Ale"
+          ],
+          "ABV": "8.5%"
+        },
+        {
+          "name": "Blue Moon Raspberry Cream Ale",
+          "style": "Belgian Ale",
+          "category": [
+            "Belgian",
+            "Cream Ale",
+            "Fruit"
+          ],
+          "ABV": "5.8%",
+          "IBU": "9.5"
+        }
+      ]
+    },
+    {
+      "name": "Boston Beer Co. / Sam Adams",
+      "info": "Boston, MA",
+      "beers": [
+        {
+          "name": "Sam Adams Boston Lager",
+          "style": "Lager",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1052",
+          "ABV": "4.9%",
+          "IBU": "29"
+        },
+        {
+          "name": "Sam Adams Alpine Spring",
+          "style": "Bock",
+          "category": [
+            "Bock"
+          ],
+          "ABV": "5.5%",
+          "IBU": "22"
+        },
+        {
+          "name": "Sam Adams Winter Lager",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Lager"
+          ],
+          "ABV": "5.6%",
+          "IBU": "22"
+        }
+      ]
+    },
+    {
+      "name": "Boulevard Brewing Company",
+      "info": "Kansas City, MO",
+      "beers": [
+        {
+          "name": "Boulevard Unfiltered Wheat Beer",
+          "style": "Wheat",
+          "category": [
+            "Wheat"
+          ],
+          "OG": "1045",
+          "ABV": "4.4%",
+          "IBU": "14"
+        },
+        {
+          "name": "Single Wide IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1055",
+          "ABV": "5.7%",
+          "IBU": "57"
+        },
+        {
+          "name": "Tank 7 Farmhouse Ale",
+          "style": "Belgian Saison",
+          "category": [
+            "Belgian",
+            "Saison"
+          ],
+          "OG": "1069",
+          "ABV": "8.0%",
+          "IBU": "38"
+        }
+      ]
+    },
+    {
+      "name": "BrewDog",
+      "info": "Fraserburgh, Scotland",
+      "beers": [
+        {
+          "name": "Punk IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1053",
+          "ABV": "5.6%",
+          "IBU": "45"
+        },
+        {
+          "name": "5 A.M. Saint",
+          "style": "Amber Ale",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1048",
+          "ABV": "5.0%",
+          "IBU": "25"
+        },
+        {
+          "name": "Bitch Please",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1056",
+          "ABV": "6.0%",
+          "IBU": "68"
+        }
+      ]
+    },
+    {
+      "name": "Bridgeport Brewing Co.",
+      "info": "Portland, OR",
+      "beers": [
+        {
+          "name": "Hop Czar",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1070",
+          "ABV": "7.9%",
+          "IBU": "85"
+        },
+        {
+          "name": "Old Knucklehead Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1083",
+          "ABV": "9.1%",
+          "IBU": "60"
+        }
+      ]
+    },
+    {
+      "name": "Chimay",
+      "info": "Abbey de Scourmont, Belgium",
+      "beers": [
+        {
+          "name": "CHIMAY Cinq Cents",
+          "style": "Belgian Trappist Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1069",
+          "ABV": "8.0%"
+        },
+        {
+          "name": "CHIMAY Premiere",
+          "style": "Belgian Trappist",
+          "category": [
+            "Belgian"
+          ],
+          "OG": "1063",
+          "ABV": "7.0%"
+        },
+        {
+          "name": "CHIMAY Grand Reserve",
+          "style": "Belgian Trappist Quadruple",
+          "category": [
+            "Belgian",
+            "Trappist Ale"
+          ],
+          "OG": "1078",
+          "ABV": "9.0%"
+        }
+      ]
+    },
+    {
+      "name": "Denali Brewing Co.",
+      "info": "Talkeetna, AK",
+      "beers": [
+        {
+          "name": "Mother Ale",
+          "style": "Golden Ale",
+          "category": [
+            "Golden Ale"
+          ],
+          "OG": "1050",
+          "ABV": "5.5%",
+          "IBU": "45"
+        },
+        {
+          "name": "Single Engine Red",
+          "style": "American Amber",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1052",
+          "ABV": "5.6%",
+          "IBU": "46"
+        },
+        {
+          "name": "Twister Creek IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1056",
+          "ABV": "6.3%",
+          "IBU": "71"
+        },
+        {
+          "name": "Chuli Stout – Nitro(genated)",
+          "style": "Foreign Style Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1063",
+          "ABV": "5.6%",
+          "IBU": "55"
+        },
+        {
+          "name": "Hibernale",
+          "style": "Belgian Dark Strong Ale",
+          "category": [
+            "Belgian",
+            "Strong Ale"
+          ],
+          "OG": "1081",
+          "ABV": "9.5%",
+          "IBU": "49"
+        },
+        {
+          "name": "Old Mad Dog",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1102",
+          "ABV": "10.4%",
+          "IBU": "52"
+        },
+        {
+          "name": "Wassail 2011 (Connoisseur session only)",
+          "style": "Winter Seasonal – Wood Aged",
+          "category": [
+            "Winter Ale",
+            "Connoisseur Session Only"
+          ],
+          "OG": "1065",
+          "ABV": "7.5%",
+          "IBU": "46"
+        },
+        {
+          "name": "Abaddon Strong Belgian Golden (Connoisseur session only)",
+          "style": "Belgian Strong Golden Ale",
+          "category": [
+            "Belgian",
+            "Golden Ale",
+            "Connoisseur Session Only",
+            "Strong Ale"
+          ],
+          "OG": "1079",
+          "ABV": "9.2%",
+          "IBU": "40"
+        }
+      ]
+    },
+    {
+      "name": "Deschutes Brewery",
+      "info": "Bend, OR",
+      "beers": [
+        {
+          "name": "Inversion IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1067",
+          "ABV": "6.8%",
+          "IBU": "80"
+        },
+        {
+          "name": "Chain Breaker White IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "5.5%",
+          "IBU": "55"
+        },
+        {
+          "name": "Super Jubel 2010",
+          "style": "Winter Seasonal – Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1096",
+          "ABV": "10.0%",
+          "IBU": "55"
+        },
+        {
+          "name": "Red Chair Northwest Pale Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1064",
+          "ABV": "6.4%",
+          "IBU": "60"
+        }
+      ]
+    },
+    {
+      "name": "Diamond Knot Brewing Company",
+      "info": "Mukilteo, WA",
+      "beers": [
+        {
+          "name": "Industrial Ho! Ho!",
+          "style": "Winter Seasonal – Winter Warmer",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1070",
+          "ABV": "8.5%",
+          "IBU": "60"
+        }
+      ]
+    },
+    {
+      "name": "Dick's Brewing Co.",
+      "info": "Centralia, WA",
+      "beers": [
+        {
+          "name": "Dick's Double Diamond Winter Ale",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1080",
+          "ABV": "8.5%",
+          "IBU": "85"
+        },
+        {
+          "name": "Dick's Barleywine 2008",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1095",
+          "ABV": "9.9%",
+          "IBU": "70"
+        }
+      ]
+    },
+    {
+      "name": "Elysian Brewing Co.",
+      "info": "Seattle, WA",
+      "beers": [
+        {
+          "name": "Dragonstooth Stout",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1083",
+          "ABV": "7.45%",
+          "IBU": "60"
+        },
+        {
+          "name": "Cyclops Barleywine – Old One Eye",
+          "style": "Barleywine",
+          "favorite": true,
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1098",
+          "ABV": "9.85%",
+          "IBU": "53"
+        },
+        {
+          "name": "Nibiru",
+          "style": "Belgian Tripel",
+          "favorite": true,
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1069",
+          "ABV": "7.65%",
+          "IBU": "50"
+        }
+      ]
+    },
+    {
+      "name": "Firestone Walker Brewing Co.",
+      "info": "Paso Robles, CA",
+      "beers": [
+        {
+          "name": "DBA (Double Barrel Ale)",
+          "style": "English Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1049",
+          "ABV": "5.0%",
+          "IBU": "32"
+        },
+        {
+          "name": "Union Jack",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1068",
+          "ABV": "7.5%",
+          "IBU": "72"
+        },
+        {
+          "name": "Double Jack",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial"
+          ],
+          "OG": "1080",
+          "ABV": "9.5%",
+          "IBU": "100"
+        },
+        {
+          "name": "Velvet Merlin",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1062",
+          "ABV": "8.5%",
+          "IBU": "33"
+        },
+        {
+          "name": "§ucaba",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1096",
+          "ABV": "12.0%"
+        }
+      ]
+    },
+    {
+      "name": "Fremont Brewing Co.",
+      "info": "Seattle, WA",
+      "beers": [
+        {
+          "name": "Bourbon Abominable Ale",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "ABV": "8.5%",
+          "IBU": "47"
+        },
+        {
+          "name": "Old Snugglebunny Bourbon Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "12.0%",
+          "IBU": "55"
+        }
+      ]
+    },
+    {
+      "name": "Full Sail Brewing Co.",
+      "info": "Hood River, OR",
+      "beers": [
+        {
+          "name": "Full Sail Session Premium Lager",
+          "style": "Premium Lager",
+          "category": [
+            "Lager"
+          ],
+          "ABV": "5.1%",
+          "IBU": "18"
+        },
+        {
+          "name": "Full Sail Session Black Lager",
+          "style": "Dark Lager",
+          "category": [
+            "Lager"
+          ],
+          "ABV": "5.4%",
+          "IBU": "22"
+        },
+        {
+          "name": "Full Sail Wassail",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "ABV": "7.0%",
+          "IBU": "56"
+        },
+        {
+          "name": "Full Sail IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "6.0%",
+          "IBU": "60"
+        }
+      ]
+    },
+    {
+      "name": "Glacier BrewHouse",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "Glacier IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1065",
+          "ABV": "6.35%",
+          "IBU": "51"
+        },
+        {
+          "name": "Glacier Raspberry Wheat",
+          "style": "Wheat - Fruit",
+          "category": [
+            "Wheat",
+            "Fruit"
+          ],
+          "ABV": "4.8%",
+          "IBU": "12"
+        },
+        {
+          "name": "Big Woody Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1110",
+          "ABV": "9.8%",
+          "IBU": "80"
+        },
+        {
+          "name": "Glacier Eisbock",
+          "style": "Eisbock",
+          "category": [
+            "Bock"
+          ],
+          "OG": "1099",
+          "ABV": "9.1%",
+          "IBU": "26"
+        }
+      ]
+    },
+    {
+      "name": "Green Flash Brewing Co.",
+      "info": "San Diego, CA",
+      "beers": [
+        {
+          "name": "West Coast IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1065",
+          "ABV": "7.3%",
+          "IBU": "95"
+        },
+        {
+          "name": "Green Flash Brandy Barrel Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1092",
+          "ABV": "12.9%",
+          "IBU": "65"
+        },
+        {
+          "name": "Green Flash Double Stout",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1080",
+          "ABV": "8.8%",
+          "IBU": "45"
+        }
+      ]
+    },
+    {
+      "name": "Green's",
+      "info": "Lochristi, Belgium",
+      "beers": [
+        {
+          "name": "Green's Discovery Gluten-Free Amber",
+          "style": "Belgian Pale",
+          "category": [
+            "Amber Ale",
+            "Belgian"
+          ],
+          "OG": "1056",
+          "ABV": "6.0%",
+          "IBU": "32"
+        }
+      ]
+    },
+    {
+      "name": "Guinness",
+      "info": "St. James' Gate Brewery, Dublin, Ireland",
+      "beers": [
+        {
+          "name": "Guinness Black Lager",
+          "style": "Dark Lager",
+          "category": [
+            "Lager"
+          ],
+          "ABV": "4.5%",
+          "IBU": "23"
+        }
+      ]
+    },
+    {
+      "name": "Haines Brewing Co.",
+      "info": "Haines, AK",
+      "beers": [
+        {
+          "name": "16 Pounder I.P.A. 2010",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1089",
+          "ABV": "10.2%",
+          "IBU": "95+"
+        },
+        {
+          "name": "Dalton Trail Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1048",
+          "ABV": "4.9%",
+          "IBU": "35"
+        },
+        {
+          "name": "DMMDIIPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1065",
+          "ABV": "6.66%",
+          "IBU": "75"
+        },
+        {
+          "name": "Black Fang",
+          "style": "Imperial Stout",
+          "category": [
+            "Imperial",
+            "Stout"
+          ],
+          "OG": "1082",
+          "ABV": "8.6%"
+        },
+        {
+          "name": "Lookout Stout",
+          "style": "Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1062",
+          "ABV": "6.2%",
+          "IBU": "25"
+        },
+        {
+          "name": "Bigger Hammer Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1100",
+          "ABV": "11.5%"
+        },
+        {
+          "name": "Broke Dick Ale (Poor Richard's Ale) (Connoisseur session only)",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale",
+            "Connoisseur Session Only"
+          ],
+          "OG": "1072",
+          "ABV": "7.2%"
+        }
+      ]
+    },
+    {
+      "name": "Harmon Brewing Co.",
+      "info": "Tacoma, WA",
+      "beers": [
+        {
+          "name": "Black Tartan IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1072",
+          "ABV": "6.5%",
+          "IBU": "80"
+        },
+        {
+          "name": "Stryker Stout",
+          "style": "Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1068",
+          "ABV": "5.9%",
+          "IBU": "30"
+        }
+      ]
+    },
+    {
+      "name": "JK's Scrumpy, the Orchard Gate",
+      "info": "Flushing, MI",
+      "beers": [
+        {
+          "name": "J.K.'s Scrumpy Hard Cider",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Julian Ciders",
+      "info": "Julian, CA",
+      "beers": [
+        {
+          "name": "Julian Hard Cider",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.99%"
+        },
+        {
+          "name": "Julian Cherry Bomb Cider",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.99%"
+        }
+      ]
+    },
+    {
+      "name": "Kassik's Kenai Brew Stop",
+      "info": "Nikiski, AK",
+      "beers": [
+        {
+          "name": "Whaler's Wheat",
+          "style": "Wheat",
+          "category": [
+            "Wheat"
+          ],
+          "OG": "1052",
+          "ABV": "5.0%",
+          "IBU": "13"
+        },
+        {
+          "name": "Beaver Tail Blonde",
+          "style": "Golden Ale",
+          "category": [
+            "Golden Ale"
+          ],
+          "OG": "1047",
+          "ABV": "5.2%",
+          "IBU": "21"
+        },
+        {
+          "name": "Morning Wood IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1060",
+          "ABV": "6.4%",
+          "IBU": "60"
+        },
+        {
+          "name": "Dolly Varden Nut Brown",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1047",
+          "ABV": "5.5%",
+          "IBU": "21"
+        },
+        {
+          "name": "Buffalo Head Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1097",
+          "ABV": "11.0%",
+          "IBU": "77"
+        },
+        {
+          "name": "Orion's Quest Red Ale",
+          "style": "American Amber",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1061",
+          "ABV": "6.8%",
+          "IBU": "25"
+        },
+        {
+          "name": "Big Nutz Imperial Brown",
+          "style": "Brown Ale",
+          "category": [
+            "Imperial",
+            "Brown Ale"
+          ],
+          "OG": "1081",
+          "ABV": "8.5%",
+          "IBU": "35"
+        },
+        {
+          "name": "Kassiks Spiced Cream Ale",
+          "style": "Cream Ale",
+          "category": [
+            "Cream Ale"
+          ],
+          "OG": "1050",
+          "ABV": "5.0%",
+          "IBU": "15"
+        }
+      ]
+    },
+    {
+      "name": "Kenai River Brewing Co.",
+      "info": "Soldotna, AK",
+      "beers": [
+        {
+          "name": "Peninsula Brewer's Reserve",
+          "style": "Golden Ale",
+          "category": [
+            "Golden Ale"
+          ],
+          "OG": "1050",
+          "ABV": "5.0%",
+          "IBU": "15"
+        },
+        {
+          "name": "Arctic XPA",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1051",
+          "ABV": "5.4%",
+          "IBU": "73"
+        },
+        {
+          "name": "Naptown Nut Brown",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1064",
+          "ABV": "6.4%",
+          "IBU": "38"
+        },
+        {
+          "name": "Skilak Scottish",
+          "style": "Scottish Ale",
+          "category": [
+            "Scottish Ale"
+          ],
+          "OG": "1056",
+          "ABV": "5.3%",
+          "IBU": "26"
+        },
+        {
+          "name": "Breakfast Beer",
+          "style": "Milk Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1050",
+          "ABV": "4.9%",
+          "IBU": "26"
+        },
+        {
+          "name": "Sunken Island IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1069",
+          "ABV": "6.8%",
+          "IBU": "62"
+        }
+      ]
+    },
+    {
+      "name": "King Street Brewing Co.",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "King Street IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1058",
+          "ABV": "5.5%",
+          "IBU": "70"
+        },
+        {
+          "name": "King Street Amber",
+          "style": "American Amber Ale",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1053",
+          "ABV": "5.1%",
+          "IBU": "24"
+        },
+        {
+          "name": "King Street Pilsner",
+          "style": "Pilsner",
+          "category": [
+            "Pilsner"
+          ],
+          "OG": "1054",
+          "ABV": "5.5%",
+          "IBU": "23"
+        },
+        {
+          "name": "King Street Busted Blonde",
+          "style": "Golden Ale",
+          "category": [
+            "Golden Ale"
+          ],
+          "OG": "1044",
+          "ABV": "4.7%",
+          "IBU": "17"
+        },
+        {
+          "name": "King Street Stout",
+          "style": "Irish-style Dry Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1053",
+          "ABV": "4.9%",
+          "IBU": "40"
+        },
+        {
+          "name": "King Street Hefeweizen",
+          "style": "Wheat",
+          "category": [
+            "Wheat"
+          ],
+          "OG": "1053",
+          "ABV": "5.7%",
+          "IBU": "10"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Brewing Co.",
+      "info": "Kodiak, AK",
+      "beers": [
+        {
+          "name": "Liquid Sunshine",
+          "style": "Lager/California Common",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1052",
+          "ABV": "5.5%",
+          "IBU": "35"
+        },
+        {
+          "name": "Kodiak Belgian Special Witbier",
+          "style": "Belgian Strong Wheat",
+          "category": [
+            "Belgian",
+            "Wheat"
+          ],
+          "OG": "1068",
+          "ABV": "6.0%",
+          "IBU": "16"
+        },
+        {
+          "name": "Wing-Nut",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1052",
+          "ABV": "5.0%",
+          "IBU": "35"
+        },
+        {
+          "name": "Arctic Night",
+          "style": "Baltic Porter",
+          "category": [
+            "Porter",
+            "Imperial"
+          ],
+          "OG": "1084",
+          "ABV": "8.0%",
+          "IBU": "55"
+        },
+        {
+          "name": "Deadliest Batch",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1112",
+          "ABV": "11.6%",
+          "IBU": "50"
+        },
+        {
+          "name": "Island Trails Spruce Tip Wheat Wine (Connoisseur session only)",
+          "style": "Wheatwine",
+          "category": [
+            "Wheat",
+            "Connoisseur Session Only"
+          ],
+          "OG": "1084",
+          "ABV": "10.3%",
+          "IBU": "12"
+        }
+      ]
+    },
+    {
+      "name": "Lagunitas Brewing Co.",
+      "info": "Petaluma, CA",
+      "beers": [
+        {
+          "name": "Lagunitas IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "5.7%",
+          "IBU": "46"
+        },
+        {
+          "name": "Little Sumpin' Wild",
+          "style": "Belgian Specialty - India Pale Ale",
+          "category": [
+            "IPA",
+            "Belgian"
+          ],
+          "ABV": "8.9%",
+          "IBU": "72"
+        },
+        {
+          "name": "Old Gnarlywine Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1096",
+          "ABV": "9.7%",
+          "IBU": "84.2"
+        }
+      ]
+    },
+    {
+      "name": "Last Frontier Brewing Company",
+      "info": "Wasilla, AK",
+      "beers": [
+        {
+          "name": "Motherlode Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1098",
+          "ABV": "10.2%",
+          "IBU": "69"
+        },
+        {
+          "name": "Double Shovel IPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial"
+          ],
+          "OG": "1071",
+          "ABV": "7.7%",
+          "IBU": "68"
+        },
+        {
+          "name": "Grubstake Stout",
+          "style": "Foreign Style Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1060",
+          "ABV": "6.0%",
+          "IBU": "32"
+        },
+        {
+          "name": "24 Karat Gold Lager",
+          "style": "Munich Style Helles Lager",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1052",
+          "ABV": "5.0%",
+          "IBU": "21"
+        }
+      ]
+    },
+    {
+      "name": "Lindemans Farm Brewery",
+      "info": "Vlezenbeek, Flanders, Belgium",
+      "beers": [
+        {
+          "name": "Lindeman's Framboise Lambic",
+          "style": "Belgian-style Fruit—raspberry",
+          "category": [
+            "Belgian",
+            "Fruit",
+            "Lambic"
+          ],
+          "OG": "1050",
+          "ABV": "4.0%",
+          "IBU": "12"
+        },
+        {
+          "name": "Lindeman's Faro Lambic",
+          "style": "Belgian-style Lambic",
+          "category": [
+            "Belgian",
+            "Lambic"
+          ],
+          "OG": "1058",
+          "ABV": "4.5%",
+          "IBU": "12"
+        }
+      ]
+    },
+    {
+      "name": "MacTarnahan's Brewing Co.",
+      "info": "Portland, OR",
+      "beers": [
+        {
+          "name": "MacTarnahan's Amber Ale",
+          "style": "English Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "ABV": "5.1%",
+          "IBU": "32"
+        }
+      ]
+    },
+    {
+      "name": "Marin Brewing Company",
+      "info": "Larkspur, CA",
+      "beers": [
+        {
+          "name": "Hoppy Holidaze",
+          "style": "Winter Seasonal – Spiced Ale",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1064",
+          "ABV": "7.0%",
+          "IBU": "28"
+        },
+        {
+          "name": "Old Dipsea Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1092",
+          "ABV": "9.0%",
+          "IBU": "45"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Sun Brewing Co.",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "Humpy's Sockeye Red IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1054",
+          "ABV": "5.7%",
+          "IBU": "70"
+        },
+        {
+          "name": "Kodiak Brown Ale",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1050",
+          "ABV": "5.0%",
+          "IBU": "24"
+        },
+        {
+          "name": "Arctic Rhino Coffee Porter",
+          "style": "Specialty – Coffee Infused Porter",
+          "category": [
+            "Porter",
+            "Coffee"
+          ],
+          "OG": "1057",
+          "ABV": "5.0%",
+          "IBU": "20"
+        },
+        {
+          "name": "Snowshoe White Wit Bier",
+          "style": "Belgian White",
+          "category": [
+            "Belgian",
+            "White"
+          ],
+          "ABV": "4.8%",
+          "IBU": "12"
+        },
+        {
+          "name": "Panty Peeler Belgian-style Tripel",
+          "style": "Belgian Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1072",
+          "ABV": "8.5%",
+          "IBU": "15"
+        },
+        {
+          "name": "CoHoHo Imperial IPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial"
+          ],
+          "ABV": "8.0%",
+          "IBU": "85"
+        },
+        {
+          "name": "XXX Black Double IPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial"
+          ],
+          "ABV": "8.5%",
+          "IBU": "87"
+        },
+        {
+          "name": "Arctic Devil Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1120",
+          "ABV": "13.2%",
+          "IBU": "20"
+        },
+        {
+          "name": "Berserker Imperial Stout (Connoisseur session only)",
+          "style": "Imperial Stout",
+          "category": [
+            "Imperial",
+            "Stout",
+            "Connoisseur Session Only"
+          ],
+          "ABV": "12.7%",
+          "IBU": "30"
+        },
+        {
+          "name": "Hop Dog Double Wheat IPA",
+          "style": "Belgian-style Tripel",
+          "category": [
+            "Belgian",
+            "Tripel",
+            "Wheat",
+            "IPA"
+          ],
+          "ABV": "8.0%",
+          "IBU": "100"
+        },
+        {
+          "name": "Monk's Mistress Special Dark Ale",
+          "style": "Belgian-style Dark Strong Ale",
+          "category": [
+            "Belgian",
+            "Strong Ale"
+          ],
+          "ABV": "11.5%",
+          "IBU": "13"
+        },
+        {
+          "name": "Mayhem Belgian-style Double IPA",
+          "style": "Belgian-style Double India Pale Ale",
+          "category": [
+            "Belgian",
+            "Imperial",
+            "IPA"
+          ],
+          "ABV": "8.2%",
+          "IBU": "100"
+        }
+      ]
+    },
+    {
+      "name": "Moose's Tooth Brewing Co.",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "Fairweather IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1064",
+          "ABV": "6.4%",
+          "IBU": "64"
+        },
+        {
+          "name": "Darth Delirium 2012",
+          "style": "Belgian-style Stout",
+          "category": [
+            "Belgian",
+            "Stout"
+          ],
+          "OG": "1099",
+          "ABV": "11.0%",
+          "IBU": "39"
+        },
+        {
+          "name": "Pono Porter",
+          "style": "Specialty – Coconut Porter",
+          "category": [
+            "Fruit",
+            "Porter"
+          ],
+          "OG": "1058",
+          "ABV": "5.4%",
+          "IBU": "21"
+        },
+        {
+          "name": "Mooses Tooth Barleywine 2012",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1081",
+          "ABV": "8.8%",
+          "IBU": "67"
+        },
+        {
+          "name": "Wild Country Raspberry Wheat",
+          "style": "Fruit",
+          "category": [
+            "Fruit",
+            "Wheat"
+          ],
+          "OG": "1051",
+          "ABV": "5.1%",
+          "IBU": "11"
+        },
+        {
+          "name": "Pipeline Stout",
+          "style": "Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1069",
+          "ABV": "6.3%",
+          "IBU": "34"
+        },
+        {
+          "name": "Williwaw Winter Warmer",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1067",
+          "ABV": "6.3%",
+          "IBU": "38"
+        },
+        {
+          "name": "Polar Pale Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1053",
+          "ABV": "5.2%",
+          "IBU": "17"
+        }
+      ]
+    },
+    {
+      "name": "Moylan's Brewery",
+      "info": "Novato, CA",
+      "beers": [
+        {
+          "name": "White Christmas",
+          "style": "Winter Seasonal – Spiced Lager",
+          "category": [
+            "Winter Lager"
+          ],
+          "OG": "1060",
+          "ABV": "6.0%",
+          "IBU": "28"
+        },
+        {
+          "name": "Old Blarney Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1098",
+          "ABV": "10.0%",
+          "IBU": "62"
+        }
+      ]
+    },
+    {
+      "name": "Ninkasi Brewing Co.",
+      "info": "Eugene, OR",
+      "beers": [
+        {
+          "name": "Total Domination IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1067",
+          "ABV": "6.7%",
+          "IBU": "65"
+        },
+        {
+          "name": "Critical Hit Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1092",
+          "ABV": "11.7%",
+          "IBU": "100+"
+        }
+      ]
+    },
+    {
+      "name": "Oakshire Brewing",
+      "info": "Eugene, OR",
+      "beers": [
+        {
+          "name": "Very Ill Tempered Gnome",
+          "style": "Winter Seasonal – American Strong Ale",
+          "category": [
+            "Winter Ale",
+            "Strong Ale"
+          ],
+          "OG": "1081",
+          "ABV": "9.2%",
+          "IBU": "80"
+        },
+        {
+          "name": "Oakshire Barleywine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1096",
+          "ABV": "9.5%",
+          "IBU": "42"
+        }
+      ]
+    },
+    {
+      "name": "Orval",
+      "info": "Abbey de Orval, Florenville, Luxembourg, Belgium",
+      "beers": [
+        {
+          "name": "Orval Trappist Ale",
+          "style": "Belgian Trappist Ale",
+          "category": [
+            "Belgian",
+            "Trappist Ale"
+          ],
+          "OG": "1055",
+          "ABV": "6.9%",
+          "IBU": "32"
+        }
+      ]
+    },
+    {
+      "name": "Oskar Blues",
+      "info": "Lyons, CO",
+      "beers": [
+        {
+          "name": "Dale's Pale Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1060",
+          "ABV": "6.5%",
+          "IBU": "65"
+        },
+        {
+          "name": "Old Chub Scottish Style Ale",
+          "style": "Scottish Ale - Smoked",
+          "category": [
+            "Scottish Ale",
+            "Smoked"
+          ],
+          "OG": "1020",
+          "ABV": "8.0%",
+          "IBU": "32"
+        },
+        {
+          "name": "Mama's Little Yella Pils",
+          "style": "Pilsner",
+          "category": [
+            "Pilsner"
+          ],
+          "OG": "1052",
+          "ABV": "5.3%",
+          "IBU": "35"
+        }
+      ]
+    },
+    {
+      "name": "Pike Brewing Co.",
+      "info": "Seattle, WA",
+      "beers": [
+        {
+          "name": "Kilt Lifter Scotch Ale",
+          "style": "Scotch Ale",
+          "category": [
+            "Scottish Ale"
+          ],
+          "OG": "1064",
+          "ABV": "6.5%",
+          "IBU": "27"
+        },
+        {
+          "name": "Pike's Place XXXXX Stout",
+          "style": "Foreign Style Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1073",
+          "ABV": "7.0%",
+          "IBU": "65"
+        },
+        {
+          "name": "Monk's Uncle Triple",
+          "style": "Belgian Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1075",
+          "ABV": "9.0%",
+          "IBU": "38"
+        },
+        {
+          "name": "Pike Double IPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "Imperial",
+            "IPA"
+          ],
+          "OG": "1076",
+          "ABV": "8.0%",
+          "IBU": "80"
+        },
+        {
+          "name": "Old Bawdy Barley Wine ‘09",
+          "style": "Barley Wine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1096",
+          "ABV": "10.0%",
+          "IBU": "90"
+        }
+      ]
+    },
+    {
+      "name": "Pinkus-Muller Brewery",
+      "info": "Munster, Germany",
+      "beers": [
+        {
+          "name": "Pinkus Organic Jubilate",
+          "style": "Dark Lager",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1049",
+          "ABV": "5.1%",
+          "IBU": "16"
+        }
+      ]
+    },
+    {
+      "name": "Pyramid Brewing Co.",
+      "info": "Seattle, WA",
+      "beers": [
+        {
+          "name": "Pyramid Snow Cap",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1069",
+          "ABV": "7.0%",
+          "IBU": "47"
+        }
+      ]
+    },
+    {
+      "name": "Redhook",
+      "info": "Woodinville, WA",
+      "beers": [
+        {
+          "name": "Redhook Nut Brown",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "OG": "1055",
+          "ABV": "5.8%",
+          "IBU": "30"
+        },
+        {
+          "name": "Long Hammer IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1058",
+          "ABV": "6.5%",
+          "IBU": "44"
+        }
+      ]
+    },
+    {
+      "name": "Rochefort",
+      "info": "Brasserie de L'Abbaye Notre Dame de St. Remy, Rochefort, Namur Province, Belgium",
+      "beers": [
+        {
+          "name": "Rochefort 8°",
+          "style": "Belgian Trappist Strong Ale",
+          "category": [
+            "Belgian",
+            "Strong Ale",
+            "Trappist Ale"
+          ],
+          "OG": "1080",
+          "ABV": "9.2%",
+          "IBU": "22"
+        }
+      ]
+    },
+    {
+      "name": "Rogue Ales",
+      "info": "Newport, OR",
+      "beers": [
+        {
+          "name": "Old Crustacean Barley Wine",
+          "style": "Barley Wine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1100",
+          "FG": "1025",
+          "ABV": "11.5%"
+        },
+        {
+          "name": "Chatoe Rogue Good Chit",
+          "style": "Pilsner",
+          "category": [],
+          "OG": "1052",
+          "ABV": "6.0%",
+          "IBU": "40"
+        },
+        {
+          "name": "Mogul Madness",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1066",
+          "ABV": "6.8%",
+          "IBU": "68"
+        }
+      ]
+    },
+    {
+      "name": "Sam Smith Old Brewery",
+      "info": "Tadcaster, North Yorkshire, England",
+      "beers": [
+        {
+          "name": "Samuel Smith's Organic Cider",
+          "style": "Cider",
+          "category": [
+            "Cider",
+            "Organic"
+          ],
+          "ABV": "5.0%"
+        },
+        {
+          "name": "Samuel Smith's Organic Lager",
+          "style": "Lager",
+          "category": [
+            "Lager",
+            "Organic"
+          ],
+          "OG": "1042",
+          "ABV": "5.0%",
+          "IBU": "25"
+        },
+        {
+          "name": "Samuel Smith's Organic Strawberry",
+          "style": "Fruit",
+          "category": [
+            "Fruit",
+            "Organic"
+          ],
+          "OG": "1065",
+          "ABV": "5.1%",
+          "IBU": "14"
+        },
+        {
+          "name": "Samuel Smith's Taddy Porter",
+          "style": "English Porter",
+          "category": [
+            "Porter"
+          ],
+          "OG": "1050",
+          "ABV": "5.0%",
+          "IBU": "32"
+        },
+        {
+          "name": "Samuel Smith's Oatmeal Stout",
+          "style": "Oatmeal Stout",
+          "category": [
+            "Stout"
+          ],
+          "OG": "1050",
+          "ABV": "5.0%",
+          "IBU": "32"
+        },
+        {
+          "name": "Samuel Smith's Imperial Stout",
+          "style": "Imperial Stout",
+          "category": [
+            "Stout",
+            "Imperial"
+          ],
+          "OG": "1070",
+          "ABV": "7.0%",
+          "IBU": "35"
+        },
+        {
+          "name": "Samuel Smith's Winter Welcome",
+          "style": "Winter Seasonal",
+          "category": [
+            "Winter Ale"
+          ],
+          "OG": "1056",
+          "ABV": "6.0%",
+          "IBU": "32"
+        }
+      ]
+    },
+    {
+      "name": "Schneider & Sohn",
+      "info": "Brauerei G. Schneider & Sohn, Bavaria, Germany",
+      "beers": [
+        {
+          "name": "Aventinus",
+          "style": "Weizenbock",
+          "category": [
+            "Bock"
+          ],
+          "OG": "1074",
+          "ABV": "8.2%",
+          "IBU": "16"
+        },
+        {
+          "name": "Schneider Weisse",
+          "style": "Wheat",
+          "category": [
+            "Wheat"
+          ],
+          "OG": "1050",
+          "ABV": "5.4%",
+          "IBU": "14"
+        },
+        {
+          "name": "Edel-Weisse",
+          "style": "Organic Wheat",
+          "category": [
+            "Wheat",
+            "Organic"
+          ],
+          "OG": "1056",
+          "ABV": "6.2%",
+          "IBU": "13"
+        },
+        {
+          "name": "Hopfen-Weisse",
+          "style": "Weizenbock",
+          "category": [
+            "Bock"
+          ],
+          "OG": "1077",
+          "ABV": "8.2%",
+          "IBU": "40"
+        },
+        {
+          "name": "Aventinus Eisbock",
+          "style": "Eisbock",
+          "category": [
+            "Bock"
+          ],
+          "OG": "1104",
+          "ABV": "12.0%",
+          "IBU": "15"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Nevada Brewing Co.",
+      "info": "Chico, CA",
+      "beers": [
+        {
+          "name": "Sierra Nevada Pale Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1052",
+          "FG": "1011",
+          "ABV": "5.6%"
+        },
+        {
+          "name": "Sierra Nevada Celebration Ale",
+          "style": "Winter Seasonal—India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1064",
+          "ABV": "6.8%",
+          "IBU": "65"
+        },
+        {
+          "name": "Sierra Nevada Ruthless Rye IPA",
+          "style": "Rye - India Pale Ale",
+          "category": [
+            "IPA",
+            "Rye"
+          ],
+          "OG": "1061",
+          "ABV": "6.6%",
+          "IBU": "55"
+        },
+        {
+          "name": "Sierra Nevada 2 X 4 Belgian Ale",
+          "style": "Belgian Dark Strong Ale",
+          "category": [
+            "Belgian",
+            "Strong Ale"
+          ],
+          "ABV": "8.7%",
+          "IBU": "14"
+        },
+        {
+          "name": "Sierra Nevada Bigfoot Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1092",
+          "ABV": "9.6%",
+          "IBU": "90"
+        }
+      ]
+    },
+    {
+      "name": "Silver Gulch Brewing &",
+      "info": "Bottling Co.",
+      "beers": [
+        {
+          "name": "Fairbanks Lager",
+          "style": "Vienna Lager",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1056",
+          "ABV": "5.2%",
+          "IBU": "18"
+        },
+        {
+          "name": "Coldfoot Pilsner",
+          "style": "Pilsner",
+          "category": [
+            "Pilsner"
+          ],
+          "OG": "1060",
+          "ABV": "5.6%",
+          "IBU": "30"
+        },
+        {
+          "name": "Copper Creek Amber Ale",
+          "style": "American Amber Ale",
+          "category": [
+            "Amber Ale"
+          ],
+          "OG": "1048",
+          "ABV": "5.0%",
+          "IBU": "33"
+        },
+        {
+          "name": "Pick Axe Porter",
+          "style": "Porter",
+          "category": [
+            "Porter"
+          ],
+          "OG": "1050",
+          "ABV": "5.1%",
+          "IBU": "25"
+        },
+        {
+          "name": "Epicenter Ale",
+          "style": "American Strong Ale",
+          "category": [
+            "Strong Ale"
+          ],
+          "OG": "1081",
+          "ABV": "7.9%",
+          "IBU": "40"
+        },
+        {
+          "name": "Osculum Infame",
+          "style": "Belgian Strong Golden Ale",
+          "category": [
+            "Belgian",
+            "Golden Ale",
+            "Strong Ale"
+          ],
+          "OG": "1100",
+          "ABV": "11.0%",
+          "IBU": "20"
+        },
+        {
+          "name": "40 Below Nitro",
+          "style": "Imperial Stout",
+          "category": [
+            "Stout",
+            "Imperial"
+          ],
+          "OG": "1093",
+          "ABV": "8.5%",
+          "IBU": "77"
+        },
+        {
+          "name": "Snow Hook IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1070",
+          "ABV": "6.2%",
+          "IBU": "55"
+        },
+        {
+          "name": "The Weird Beard",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1100",
+          "ABV": "9.5%",
+          "IBU": "90"
+        },
+        {
+          "name": "Dark Lady",
+          "style": "Specialty - Milk Stout W/ Chocolate & Cherries",
+          "category": [
+            "Stout",
+            "Chocolate",
+            "Fruit"
+          ],
+          "OG": "1068",
+          "ABV": "6.3%",
+          "IBU": "40"
+        },
+        {
+          "name": "Black Prince",
+          "style": "Winter Seasonal – Belgian Dubbel Spiced Ale",
+          "category": [
+            "Belgian",
+            "Winter Ale"
+          ],
+          "OG": "1071",
+          "ABV": "7.1%",
+          "IBU": "10"
+        },
+        {
+          "name": "Happy Hippie",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1110",
+          "ABV": "10.0%",
+          "IBU": "100"
+        },
+        {
+          "name": "Angry Monkey Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1130",
+          "ABV": "14.0%",
+          "IBU": "64"
+        }
+      ]
+    },
+    {
+      "name": "Sleeping Lady Brewing Co./Snow Goose Restaurant",
+      "info": "Anchorage, AK",
+      "beers": [
+        {
+          "name": "Goldrush Golden Ale",
+          "style": "Golden Ale",
+          "category": [
+            "Golden Ale"
+          ],
+          "OG": "1046",
+          "ABV": "4.5%",
+          "IBU": "20"
+        },
+        {
+          "name": "“Fish On!” IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1058",
+          "ABV": "6.0%",
+          "IBU": "70"
+        },
+        {
+          "name": "Bravehart Scottish Ale",
+          "style": "Scottish Ale",
+          "category": [
+            "Scottish Ale"
+          ],
+          "OG": "1070",
+          "ABV": "6.0%",
+          "IBU": "23"
+        },
+        {
+          "name": "Portage Porter",
+          "style": "Porter",
+          "category": [
+            "Porter"
+          ],
+          "OG": "1070",
+          "ABV": "6.0%",
+          "IBU": "23"
+        },
+        {
+          "name": "Old Gander Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1100",
+          "ABV": "10.0%",
+          "IBU": "60?"
+        }
+      ]
+    },
+    {
+      "name": "Shmaltz Brewing Co.",
+      "info": "San Francisco, CA",
+      "beers": [
+        {
+          "name": "He'Brew Genesis Dry Hopped Session Ale",
+          "style": "American Pale Ale",
+          "category": [
+            "Pale Ale"
+          ],
+          "ABV": "6.0%"
+        },
+        {
+          "name": "He'Brew Mesiah Bold Nut Brown Ale",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "ABV": "5.5%"
+        },
+        {
+          "name": "He'Brew Bittersweet Lenny's R.I.P.A. on Rye",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial",
+            "Rye"
+          ],
+          "ABV": "10.0%"
+        },
+        {
+          "name": "He'Brew Origin Pomegranate Ale",
+          "style": "American Strong Ale",
+          "category": [
+            "Fruit",
+            "Strong Ale"
+          ],
+          "ABV": "8.0%"
+        },
+        {
+          "name": "He'Brew Jewbelation 15",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "15.0%"
+        },
+        {
+          "name": "Reunion: A Beer For Hope 2011",
+          "style": "Brown Ale",
+          "category": [
+            "Brown Ale"
+          ],
+          "ABV": "7.3%"
+        }
+      ]
+    },
+    {
+      "name": "Southern Tier Brewing Co.",
+      "info": "Lakewood, NY",
+      "beers": [
+        {
+          "name": "Southern Tier 2XIPA",
+          "style": "Imperial India Pale Ale",
+          "category": [
+            "IPA",
+            "Imperial"
+          ],
+          "OG": "1072",
+          "FG": "1014",
+          "ABV": "8.0%"
+        },
+        {
+          "name": "Choklat Stout",
+          "style": "Specialty – Imperial Stout W/ Belgian Chocolate",
+          "category": [
+            "Stout",
+            "Imperial",
+            "Chocolate"
+          ],
+          "OG": "1100",
+          "FG": "1034",
+          "ABV": "10.0%"
+        }
+      ]
+    },
+    {
+      "name": "St. Elias Brewing Co.",
+      "info": "Soldotna, AK",
+      "beers": [
+        {
+          "name": "Farmer's Friend",
+          "style": "Specialty - Rye",
+          "category": [
+            "Rye",
+            "Specialty Ale"
+          ],
+          "OG": "1058",
+          "ABV": "6.5%",
+          "IBU": "16"
+        },
+        {
+          "name": "Grasshopper Pale Ale",
+          "style": "Special Bitter",
+          "category": [
+            "Pale Ale"
+          ],
+          "OG": "1045",
+          "ABV": "4.5%",
+          "IBU": "39"
+        },
+        {
+          "name": "Williwaw IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "OG": "1063",
+          "ABV": "6.7%",
+          "IBU": "60"
+        },
+        {
+          "name": "Moonfire Saison (barrel aged)",
+          "style": "Belgian Saison",
+          "category": [
+            "Belgian",
+            "Saison"
+          ],
+          "OG": "1059",
+          "ABV": "7.25%",
+          "IBU": "25"
+        },
+        {
+          "name": "Matushka Imperial Stout (barrel aged)",
+          "style": "Imperial Stout",
+          "category": [
+            "Imperial",
+            "Stout"
+          ],
+          "OG": "1080",
+          "ABV": "8.8%",
+          "IBU": "80"
+        },
+        {
+          "name": "Moose Juice Barley Wine (barrel aged)",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1088",
+          "ABV": "9.5%",
+          "IBU": "100"
+        },
+        {
+          "name": "Bumper Crop (barrel aged) (Connoisseur session only)",
+          "style": "Specialty",
+          "category": [
+            "Connoisseur Session Only",
+            "Strong Ale"
+          ],
+          "OG": "1074",
+          "ABV": "8.7%",
+          "IBU": "26"
+        },
+        {
+          "name": "Cask Conditioned Grasshopper Pale Ale (Connoisseur session only)",
+          "style": "Special Bitter",
+          "category": [
+            "Pale Ale",
+            "Connoisseur Session Only"
+          ],
+          "OG": "1045",
+          "ABV": "4.5%",
+          "IBU": "39"
+        }
+      ]
+    },
+    {
+      "name": "Stone Brewing Company",
+      "info": "Escondido, CA",
+      "beers": [
+        {
+          "name": "Old Guardian Barley Wine ‘07",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "11.3%",
+          "IBU": "95"
+        },
+        {
+          "name": "Old Guardian Barley Wine ‘08",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "11.3%",
+          "IBU": "95"
+        },
+        {
+          "name": "Old Guardian Barley Wine ‘09",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "11.3%",
+          "IBU": "95"
+        },
+        {
+          "name": "Old Guardian Barley Wine ‘10",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "11.3%",
+          "IBU": "95"
+        },
+        {
+          "name": "Old Guardian BELGO Barley Wine",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "ABV": "11.3%",
+          "IBU": "95"
+        }
+      ]
+    },
+    {
+      "name": "Thistly Cross Cider",
+      "info": "South Belton Farm, Nr. Dunbar, East Lothian, Scotland",
+      "beers": [
+        {
+          "name": "Thistly Cross Farmhouse Cider",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "7.2%"
+        }
+      ]
+    },
+    {
+      "name": "Three Skulls Ales",
+      "info": "Seattle, WA",
+      "beers": [
+        {
+          "name": "Hop the Plank IPA",
+          "style": "India Pale Ale",
+          "category": [
+            "IPA"
+          ],
+          "ABV": "6.75%",
+          "IBU": "70"
+        },
+        {
+          "name": "Three Skulls Blood Orange Wit",
+          "style": "Wheat",
+          "category": [
+            "Wheat",
+            "Fruit"
+          ],
+          "ABV": "5.0%",
+          "IBU": "30"
+        }
+      ]
+    },
+    {
+      "name": "Unibroue",
+      "info": "Chambly, Quebec, Canada",
+      "beers": [
+        {
+          "name": "Blanche de Chambly",
+          "style": "Belgian Wit",
+          "category": [
+            "Belgian"
+          ],
+          "ABV": "5.0%"
+        },
+        {
+          "name": "Don de Dieu",
+          "style": "Belgian Strong Wheat",
+          "category": [
+            "Belgian",
+            "Wheat"
+          ],
+          "ABV": "9.0%"
+        },
+        {
+          "name": "Ephemere",
+          "style": "Belgian Fruit - Apple",
+          "category": [
+            "Belgian",
+            "Fruit"
+          ],
+          "ABV": "5.5%"
+        },
+        {
+          "name": "La Fin Du Monde",
+          "style": "Belgian Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "ABV": "9.0%"
+        },
+        {
+          "name": "Maudite",
+          "style": "Belgian Strong Amber Ale",
+          "category": [
+            "Belgian",
+            "Amber Ale",
+            "Strong Ale"
+          ],
+          "ABV": "8.0%"
+        },
+        {
+          "name": "Terrible",
+          "style": "Belgian Dark Strong Ale",
+          "category": [
+            "Strong Ale",
+            "Belgian"
+          ],
+          "ABV": "10.5%"
+        },
+        {
+          "name": "Trois Pistoles",
+          "style": "Belgian Dark Strong Ale",
+          "category": [
+            "Belgian",
+            "Strong Ale"
+          ],
+          "ABV": "9.0%"
+        }
+      ]
+    },
+    {
+      "name": "Westmalle",
+      "info": "Abdij Trappisten Westmalle, Antwerp, Belgium",
+      "beers": [
+        {
+          "name": "Westmalle Tripel",
+          "style": "Belgian Trappist Tripel",
+          "category": [
+            "Belgian",
+            "Tripel"
+          ],
+          "OG": "1080",
+          "ABV": "9.5%",
+          "IBU": "37"
+        }
+      ]
+    },
+    {
+      "name": "Widmer",
+      "info": "Portland, OR",
+      "beers": [
+        {
+          "name": "Widmer W'12 Dark Saison",
+          "style": "Belgian Saison",
+          "category": [
+            "Belgian",
+            "Saison"
+          ],
+          "OG": "1047",
+          "ABV": "5.5%",
+          "IBU": "25"
+        },
+        {
+          "name": "Widmer KGB 2010",
+          "style": "Imperial Stout",
+          "category": [
+            "Imperial",
+            "Stout"
+          ],
+          "OG": "1086",
+          "ABV": "9.7%",
+          "IBU": "90"
+        },
+        {
+          "name": "Old Embalmer 2010",
+          "style": "Barleywine",
+          "category": [
+            "Barleywine"
+          ],
+          "OG": "1092",
+          "ABV": "10.9%",
+          "IBU": "70"
+        }
+      ]
+    },
+    {
+      "name": "Woodchuck Hard Cider",
+      "info": "Middlebury, VT",
+      "beers": [
+        {
+          "name": "Woodchuck Amber",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.9%"
+        },
+        {
+          "name": "Woodchuck Granny Smith",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.9%"
+        },
+        {
+          "name": "Woodchuck Original 91'",
+          "style": "Cider",
+          "category": [
+            "Cider"
+          ],
+          "ABV": "6.9%"
+        }
+      ]
+    },
+    {
+      "name": "Zatec Brewery",
+      "info": "Zatec, Czech Republic",
+      "beers": [
+        {
+          "name": "Zatec Dark Lager",
+          "style": "Dark Lager",
+          "category": [
+            "Lager"
+          ],
+          "OG": "1058",
+          "ABV": "5.7%",
+          "IBU": "25"
+        }
+      ]
+    }
+  ]
+}

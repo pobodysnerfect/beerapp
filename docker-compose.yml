@@ -1,0 +1,29 @@
+version: '3'
+services:
+  postgresql:
+    container_name: postgresql
+    image: postgres:10.4-alpine
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=beerdb
+    volumes:
+      - postgresdata:/var/lib/postgresql/data
+  elasticsearch:
+    container_name: elasticsearch
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.2.4
+    environment:
+      - "discovery.type=single-node"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+      - 9300:9300
+volumes:
+  esdata:
+    driver: local
+  postgresdata:
+    driver: local
